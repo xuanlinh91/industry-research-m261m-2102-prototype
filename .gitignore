@@ -4,3 +4,4 @@
 HDFS.log
 __pycache__/
 venv/
+!HDFS_v1_ready.csv
