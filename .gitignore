@@ -1,0 +1,6 @@
+*.zip
+*.npz
+*.csv
+HDFS.log
+__pycache__/
+venv/
