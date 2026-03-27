@@ -1,4 +1,4 @@
-Here’s a **clean, professional README section focused on team usage of the pipeline** you can paste directly:
+you can paste directly:
 
 ---
 
