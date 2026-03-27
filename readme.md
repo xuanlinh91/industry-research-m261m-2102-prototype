@@ -1,6 +1,4 @@
-you can paste directly:
-
----
+## SASHA project
 
 ````markdown
 ## Team Setup & Usage Guide
